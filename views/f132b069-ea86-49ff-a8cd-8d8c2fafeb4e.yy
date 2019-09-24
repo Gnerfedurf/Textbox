@@ -40,7 +40,10 @@
         "cd8c34df-c40b-482f-b979-5351fcc838a7",
         "8ad31913-f016-4b5f-b974-13c1304f55cf",
         "65dda74f-95f0-4f99-852f-ce68941ee09a",
-        "2125159e-c401-4963-a4cb-66261e5155e5"
+        "2125159e-c401-4963-a4cb-66261e5155e5",
+        "1b217be6-05ad-4948-962c-6d8e3d8bfdf7",
+        "35e9c174-fc43-43d9-b9aa-598444155d23",
+        "ef56563b-b131-4213-9d7f-24e2a74dbf6f"
     ],
     "filterType": "GMSprite",
     "folderName": "Pixel",
